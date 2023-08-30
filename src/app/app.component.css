@@ -1,0 +1,15 @@
+.head{
+    background-color: aquamarine;
+    border-color: blueviolet;
+}
+.active{
+    background-color: blue;
+    color: white;
+}
+.inactive{
+    background-color: grey;
+    color:white;
+}
+.c1{
+    border: 5px solid green;
+}
